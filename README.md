@@ -4,7 +4,7 @@ The first stage of an operational amplifier (Op-Amp) is typically a differential
 This stage usually consists of a differential transistor pair, a current source, and an active load. The differential pair converts the input voltage difference into current, while the active load helps increase the voltage gain of the stage. Additionally, the first stage provides high input impedance, ensuring that the amplifier does not significantly load the input signal source.
 
 Overall, the first stage plays a critical role in determining the input characteristics, gain, and noise performance of the operational amplifier.
-In this, I designed an Ist-stage OTA with an ac gain of around 39.9 dB and a phase margin of 90.28 degrees with total current dissipation of 55.62uA from power supply.
+In this, I designed an Ist-stage OTA with an ac gain of around 39.9 dB and a phase margin of 90.28 degrees with total power dissipation of 100.116uW and current of 55.62uA.
 
 A typical CMOS OTA consists of the following components:
 Differential Input Pair – Converts the input voltage difference into current.
